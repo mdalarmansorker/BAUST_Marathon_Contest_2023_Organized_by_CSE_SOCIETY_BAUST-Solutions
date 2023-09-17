@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 int main()
 {
@@ -24,7 +25,6 @@ int main()
         else
           printf("Case %d: no\n",i);
         i++;
-    }
     }
     return 0;
 }
